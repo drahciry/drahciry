@@ -19,8 +19,8 @@ I'm trainee in enterprise GeoSystem how SAP ABAP Developer and Computer Science'
 
 ## 📧Contact
 - [Email](mailto:richardgonric@gmail.com)
-- [LinkedIn](https\\:linkedin.com/in/drahciry)
-- [Instagram](https\\:instagram.com/drahciry)
+- [LinkedIn](https://linkedin.com/in/drahciry)
+- [Instagram](https://:instagram.com/drahciry)
 <!--
 **drahciry/drahciry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
