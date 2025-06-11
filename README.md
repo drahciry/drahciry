@@ -18,7 +18,7 @@ Sou estagiário na empresa GeoSystem como Desenvolvedor ABAP e estudante de Ciê
 </div> 
 
 ## 📧Contato
-- [Email](richardgonric@gmail.com)
+- [Email](mailto:richardgonric@gmail.com)
 - [LinkedIn](linkedin.com/in/drahciry)
 - [Instagram](instagram.com/drahciry)
 <!--
