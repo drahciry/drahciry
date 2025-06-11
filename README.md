@@ -18,9 +18,9 @@ Sou estagiário na empresa GeoSystem como Desenvolvedor ABAP e estudante de Ciê
 </div> 
 
 ## 📧Contato
-- richardgonric@gmail.com
-- linkedin.com/in/drahciry
-- instagram.com/drahciry
+- [Email](richardgonric@gmail.com)
+- [LinkedIn](linkedin.com/in/drahciry)
+- [Instagram](instagram.com/drahciry)
 <!--
 **drahciry/drahciry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
