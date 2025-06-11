@@ -6,14 +6,7 @@ Sou estagiário na empresa GeoSystem como Desenvolvedor ABAP e estudante de Ciê
 ## 🖥️Tecnologias
 <img height="36rem" src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" 
      title="Python, C, C++, Java and SQL."/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+
 <div>  
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drahciry&theme=github_dark"/>
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drahciry&theme=github_dark"/>
