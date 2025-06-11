@@ -4,11 +4,8 @@
 Sou estagiário na empresa GeoSystem como Desenvolvedor ABAP e sou estudante de Ciência da Computação na UERJ (2º Período).
 
 ## 🖥️Tecnologias
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
-<div>
-  <img height="36rem" src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" 
-       title="Python, C, C++, Java and SQL."/>
-</div>
+<img height="36rem" src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" 
+     title="Python, C, C++, Java and SQL."/>
 
 <div>  
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drahciry&theme=github_dark"/>
