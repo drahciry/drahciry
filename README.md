@@ -10,8 +10,6 @@ Sou estagiário na empresa GeoSystem como Desenvolvedor ABAP e estudante de Ciê
      title="Python, C, C++, Java, SQL and Git."/>
   </a>
 </p>
-<img height="36rem" src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git" 
-     title="Python, C, C++, Java, SQL and Git."/>
 
 <div>  
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drahciry&theme=github_dark"/>
