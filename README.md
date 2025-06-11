@@ -1,7 +1,7 @@
 # 💻printf("Richard Gonçalves\n");
 
 ## 👨‍💻Sobre mim
-Sou estagiário na empresa GeoSystem como Desenvolvedor ABAP e sou estudante de Ciência da Computação na UERJ (2º Período).
+Sou estagiário na empresa GeoSystem como Desenvolvedor ABAP e estudante de Ciência da Computação na UERJ (2º Período).
 
 ## 🖥️Tecnologias
 <img height="36rem" src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" 
