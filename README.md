@@ -11,6 +11,11 @@ Sou estagiário na empresa GeoSystem como Desenvolvedor ABAP e sou estudante de 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drahciry&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drahciry&layout=compact&theme=tokyonight)
 
+<div>  
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drahciry&theme=github_dark"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drahciry&theme=github_dark"/>
+</div> 
+
 ## 📧Contato
 - richardgonric@gmail.com
 - linkedin.com/in/drahciry
