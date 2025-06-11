@@ -1,9 +1,9 @@
 # 💻printf("Richard Gonçalves\n");
 
-## 👨‍💻Sobre mim
-Sou estagiário na empresa GeoSystem como Desenvolvedor ABAP e estudante de Ciência da Computação na UERJ (2º Período).
+## 👨‍💻About Me
+I'm trainee in enterprise GeoSystem how SAP ABAP Developer and Computer Science's student in Universidade do Estado do Rio de Janeio (UERJ), actually in 2nd period.
 
-## 🖥️Tecnologias
+## 🖥️Languages and Technologics
 <p align="center">
   <a href="https://skillicons.dev">
     <img height="50rem" src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git" 
@@ -11,16 +11,16 @@ Sou estagiário na empresa GeoSystem como Desenvolvedor ABAP e estudante de Ciê
   </a>
 </p>
 
-## 📊Estatísticas
+## 📊Statistics
 <div>  
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drahciry&theme=github_dark"/>
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drahciry&theme=github_dark"/>
 </div> 
 
-## 📧Contato
+## 📧Contact
 - [Email](mailto:richardgonric@gmail.com)
-- [LinkedIn](linkedin.com/in/drahciry)
-- [Instagram](instagram.com/drahciry)
+- [LinkedIn](https\\:linkedin.com/in/drahciry)
+- [Instagram](https\\:instagram.com/drahciry)
 <!--
 **drahciry/drahciry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
