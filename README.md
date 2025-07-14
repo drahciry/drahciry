@@ -5,10 +5,10 @@ I'm trainee in enterprise GeoSystem how SAP ABAP Developer and Computer Science'
 
 ## 🖥️Languages and Technologics
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img height="50rem" src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git" 
-     title="Python, C, C++, Java, SQL and Git."/>
-  </a>
+  <img height="50rem" src="https://skillicons.dev/icons?i=python,html,css,c" 
+  title="Python, HTML5, CSS3 and C."/><br>
+  <img height="50rem" src="https://skillicons.dev/icons?i=cpp,java,mysql,git" 
+  title="C++, Java, SQL and Git."/>
 </p>
 
 ## 📊Statistics
