@@ -1,7 +1,7 @@
 # 💻printf("Richard Gonçalves\n");
 
 ## 👨‍💻About Me
-I am an intern at GeoSystem as a SAP ABAP Developer and a student of the Computer Science course at the State University of Rio de Janeiro (UERJ), currently in the 2nd period.
+I am an intern at GeoSystem as a SAP ABAP Developer and a student of the Computer Science course at the Universidade do Estado do Rio de Janeiro (UERJ), currently in the 2nd period.
 
 ## 🖥️Languages and Technologics
 <p align="center">
