@@ -23,7 +23,7 @@ I see technology as a set of tools to solve specific problems. Here are the ones
 
 | Core & Algorithms | Enterprise & Data | Web & Frontend | Tools & Version Control |
 | :---: | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,c,cpp" title="Python, Java, C, C++"/></a> | <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logoColor=white" alt="SAP"/></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" title="HTML, CSS, JavaScript"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode" title="Git, GitHub, VS Code"/></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,c,cpp" title="Python, Java, C, C++"/></a> | <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logoColor=white" alt="SAP"/></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" title="HTML, CSS, JavaScript"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea" title="Git, GitHub, VS Code, IntelliJ IDEA"/></a> |
 
 ---
 
