@@ -23,7 +23,7 @@ I see technology as a set of tools to solve specific problems. Here are the ones
 
 | Core & Algorithms | Enterprise & Data | Web & Frontend | Tools & Version Control |
 | :---: | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,c,cpp" title="Python, Java, C, C++"/></a> | <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logoColor=white" alt="SAP"/></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" title="HTML, CSS, JavaScript"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea" title="Git, GitHub, VS Code, IntelliJ IDEA"/></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,python" title="C, C++, Java, Python"/></a> | <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logoColor=white" alt="SAP"/></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" title="HTML, CSS, JavaScript"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea" title="Git, GitHub, VS Code, IntelliJ IDEA"/></a> |
 
 ---
 
@@ -54,6 +54,7 @@ Here are a few projects that showcase my skills and learning process.
 I'm always open to connecting with other developers, students, and professionals. Feel free to reach out!
 
 <p align="center">
-  <a href="mailto:richardgonric@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/drahciry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:richardgonric@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/drahciry"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 </p>
+        
