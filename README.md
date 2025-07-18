@@ -1,37 +1,59 @@
-# 💻printf("Richard Gonçalves\n");
+# 💻 printf("Hello, World! I'm Richard Gonçalves.\n");
 
-## 👨‍💻About Me
-I am an intern at GeoSystem as a SAP ABAP Developer and a student of the Computer Science course at the Universidade do Estado do Rio de Janeiro (UERJ), currently in the 2nd period.
-
-## 🖥️Languages and Technologics
 <p align="center">
-  <img height="50rem" src="https://skillicons.dev/icons?i=python,html,css,c" 
-  title="Python, HTML5, CSS3 and C."/><br>
-  <img height="50rem" src="https://skillicons.dev/icons?i=cpp,java,mysql,git" 
-  title="C++, Java, SQL and Git."/>
+  <em>A Computer Science student at <strong>UERJ</strong> and an ABAP Developer Intern at <strong>GeoSystem (SAP Gold Partner)</strong> from Rio de Janeiro, Brazil 🇧🇷.</em>
 </p>
 
-## 📊Statistics
-<div>  
+---
+
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> About Me
+
+I'm a developer driven by a passion for not just writing code that works, but deeply understanding **why** it works. For me, programming is about building efficient, well-designed solutions, whether it's optimizing data access with the right data structure or applying software architecture principles to a simple project.
+
+- 👨‍💻 I'm currently an **ABAP Developer Intern**, where I work with enterprise-level systems in the SAP ecosystem.
+- 🎓 I'm a 3rd-period **Computer Science** student at the State University of Rio de Janeiro (UERJ), where I'm building a strong foundation in algorithms, data structures, and computer theory.
+- 🌱 My main goal is to become a versatile software engineer. I'm currently diving into **Full-Stack Web Development**, while my long-term interests lie in **Machine Learning, Data Science, and Computer Graphics**.
+- 💡 **My Philosophy:** No black boxes. I believe in mastering the fundamentals to solve complex problems effectively.
+
+---
+
+### 🛠️ My Tech Stack
+
+I see technology as a set of tools to solve specific problems. Here are the ones I'm currently working with:
+
+| Core & Algorithms | Enterprise & Data | Web & Frontend | Tools & Version Control |
+| :---: | :---: | :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,c,cpp" title="Python, Java, C, C++"/></a> | <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logoColor=white" alt="SAP"/></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" title="HTML, CSS, JavaScript"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode" title="Git, GitHub, VS Code"/></a> |
+
+---
+
+### 🚀 My Featured Projects
+
+Here are a few projects that showcase my skills and learning process.
+
+| Project | Description | Key Concepts Showcased |
+| :--- | :--- | :--- |
+| 🐍 **[Inventory System](https://github.com/drahciry/Estoque)** | A robust inventory management system built in Python. This is my flagship project, designed with a strong focus on software quality and performance. | `Object-Oriented Programming`, `Object Calisthenics`, `Hash Tables for O(1) access`, `JSON Data Persistence`, `Custom Exceptions` |
+| ☕️ **[Enterprise HR System](https://github.com/drahciry/Enterprise)** | A Java application created to demonstrate a deep, practical understanding of core Object-Oriented Programming principles. | `Inheritance`, `Polymorphism`, `Encapsulation`, `Abstraction`, `Interfaces`, `Exception Handling` |
+| ⚙️ **[C/C++ Fundamentals](https://github.com/drahciry/C-CPP)** | A repository containing my implementations of fundamental algorithms and data structures from scratch. | `Data Structures (Linked Lists, etc.)`, `Algorithms (Sorting, Searching)`, `File I/O`, `Memory Management` |
+| 💼 **[ABAP Reports](https://github.com/drahciry/ABAP)** | A collection of generic ABAP programs and reports developed for study purposes, demonstrating logic and techniques used in the SAP environment. | `ABAP Logic`, `ALV Reports`, `Data Dictionary Objects` |
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drahciry&theme=github_dark"/>
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drahciry&theme=github_dark"/>
-</div> 
+</p>
 
-## 📧Contact
-- [Email](mailto:richardgonric@gmail.com)
-- [LinkedIn](https://linkedin.com/in/drahciry)
-- [Instagram](https://instagram.com/drahciry)
-<!--
-**drahciry/drahciry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to connecting with other developers, students, and professionals. Feel free to reach out!
+
+<p align="center">
+  <a href="mailto:richardgonric@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/drahciry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
