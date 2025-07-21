@@ -56,5 +56,6 @@ I'm always open to connecting with other developers, students, and professionals
 <p align="center">
   <a href="mailto:richardgonric@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/drahciry"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/drahciry.dev/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
 </p>
         
