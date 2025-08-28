@@ -21,9 +21,9 @@ I'm a developer driven by a passion for not just writing code that works, but de
 
 I see technology as a set of tools to solve specific problems. Here are the ones I'm currently working with:
 
-| Core & Algorithms | Enterprise & Data | Web & Frontend | Tools & Version Control |
-| :---: | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,python" title="C, C++, Java, Python"/></a> | <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logoColor=white" alt="SAP"/></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" title="HTML, CSS, JavaScript"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea" title="Git, GitHub, VS Code, IntelliJ IDEA"/></a> |
+| Core & Algorithms | Enterprise & Data | Tools & Version Control |
+| :---------------: | :---------------: | :---------------------: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,cpp,java" title="Python, C, C++, Java"/></a> | <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logoColor=white" alt="SAP"/></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea" title="Git, GitHub, VS Code, IntelliJ IDEA"/></a> |
 
 ---
 
@@ -33,10 +33,11 @@ Here are a few projects that showcase my skills and learning process.
 
 | Project | Description | Key Concepts Showcased |
 | :--- | :--- | :--- |
-| 🐍 **[Inventory System](https://github.com/drahciry/Estoque)** | A robust inventory management system built in Python. This is my flagship project, designed with a strong focus on software quality and performance. | `Object-Oriented Programming`, `Object Calisthenics`, `Hash Tables for O(1) access`, `JSON Data Persistence`, `Custom Exceptions` |
+| 📊 **[Sales Data Analysis](https://github.com/drahciry/Sales-Data-Analysis)** | An end-to-end data analysis pipeline using Python for data processing and Power BI for visualization, with a focus on financial precision. | `Data Analysis`, `Pandas`, `ETL Process`, `Financial Precision (Decimal)`, `Power BI`
 | 📊 **[Investment League Analysis](https://github.com/drahciry/Investment-League)** | An end-to-end data analysis of a simulated investment league using Python to process financial data, with final results visualized in a Power BI dashboard. | `Data Analysis`, `Pandas`, `Financial Modeling`, `ETL Process`, `Power BI` |
 | 🧱 **[Python Domain Modeling](https://github.com/drahciry/Python-Domain-Modeling)** | A foundational library of data models built with a focus on robustness and software engineering best practices, designed to serve as a core for larger applications. | `Domain-Driven Design (DDD)`, `SOLID Principles`, `Robust Validation`, `Custom Exception Handling`, `Unit Testing (pytest)`, `Type Hinting` |
 | 🤖 **[SAP GUI Automation Framework](https://github.com/drahciry/Logon-SAP)** | A professional and scalable framework to automate SAP GUI logon and tasks, driven by an Excel file and secured with external credential management. | `SAP GUI Automation`, `Object-Oriented Programming`, `Secure Configuration (JSON)`, `Professional Logging`, `Data-Driven Logic` |
+| 🐍 **[Inventory System](https://github.com/drahciry/Estoque)** | A robust inventory management system built in Python. This is my flagship project, designed with a strong focus on software quality and performance. | `Object-Oriented Programming`, `Object Calisthenics`, `Hash Tables for O(1) access`, `JSON Data Persistence`, `Custom Exceptions` |
 | ☕️ **[Enterprise HR System](https://github.com/drahciry/Enterprise)** | A Java application created to demonstrate a deep, practical understanding of core Object-Oriented Programming principles. | `Inheritance`, `Polymorphism`, `Encapsulation`, `Abstraction`, `Interfaces`, `Exception Handling` |
 | ⚙️ **[C/C++ Fundamentals](https://github.com/drahciry/C-CPP)** | A repository containing my implementations of fundamental algorithms and data structures from scratch. | `Data Structures (Linked Lists, etc.)`, `Algorithms (Sorting, Searching)`, `File I/O`, `Memory Management` |
 | 💼 **[ABAP Reports](https://github.com/drahciry/ABAP)** | A collection of generic ABAP programs and reports developed for study purposes, demonstrating logic and techniques used in the SAP environment. | `ABAP Logic`, `ALV Reports`, `Data Dictionary Objects` |
