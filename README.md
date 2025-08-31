@@ -32,7 +32,8 @@ I see technology as a set of tools to solve specific problems. Here are the ones
 Here are a few projects that showcase my skills and learning process.
 
 | Project | Description | Key Concepts Showcased |
-| :--- | :--- | :--- |
+| :-----: | :---------: | :--------------------: |
+| 🧠 **[Videogame Sales Prediction](https://github.com/drahciry/Videogame-Sales-Prediction)** | A end-to-end data science pipeline using Python for Features Engineer and Random Forest Regressor for machine learning. | `Data Science`, `Pandas`, `NumPy`, `Scikit-Learn`, `Matplotlib`, `Machine Learning` |
 | 📊 **[Sales Data Analysis](https://github.com/drahciry/Sales-Data-Analysis)** | An end-to-end data analysis pipeline using Python for data processing and Power BI for visualization, with a focus on financial precision. | `Data Analysis`, `Pandas`, `ETL Process`, `Financial Precision (Decimal)`, `Power BI`
 | 📊 **[Investment League Analysis](https://github.com/drahciry/Investment-League)** | An end-to-end data analysis of a simulated investment league using Python to process financial data, with final results visualized in a Power BI dashboard. | `Data Analysis`, `Pandas`, `Financial Modeling`, `ETL Process`, `Power BI` |
 | 🧱 **[Python Domain Modeling](https://github.com/drahciry/Python-Domain-Modeling)** | A foundational library of data models built with a focus on robustness and software engineering best practices, designed to serve as a core for larger applications. | `Domain-Driven Design (DDD)`, `SOLID Principles`, `Robust Validation`, `Custom Exception Handling`, `Unit Testing (pytest)`, `Type Hinting` |
