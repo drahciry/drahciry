@@ -12,7 +12,7 @@ I'm a developer driven by a passion for not just writing code that works, but de
 
 - 👨‍💻 I'm currently an **ABAP Developer Intern**, where I work with enterprise-level systems in the SAP ecosystem.
 - 🎓 I'm a 4rd-period **Computer Science** student at the State University of Rio de Janeiro (UERJ), where I'm building a strong foundation in algorithms, data structures, and computer theory.
-- 🌱 My goal is to become a versatile software engineer, and I'm building my path through the world of data. I am currently focused on developing deep expertise in **Data Analysis and Engineering**, with a keen interest in specializing in **Machine Learning and Computer Graphics**.
+- 🌱 My goal is to become a versatile software engineer, and I'm building my path through the world of data. I am currently focused on developing deep expertise in **Data Analysis and Engineering**, with a keen interest in specializing in **Machine Learning and Neural Networks**.
 - 💡 **My Philosophy:** No black boxes. I believe in mastering the fundamentals to solve complex problems effectively.
 
 ---
