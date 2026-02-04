@@ -21,9 +21,9 @@ I'm a developer driven by a passion for not just writing code that works, but de
 
 I see technology as a set of tools to solve specific problems. Here are the ones I'm currently working with:
 
-| Core & Algorithms | Enterprise & Data | Tools & Version Control |
-| :---------------: | :---------------: | :---------------------: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,cpp,java" title="Python, C, C++, Java"/></a> | <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logoColor=white" alt="SAP"/></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea" title="Git, GitHub, VS Code, IntelliJ IDEA"/></a> |
+| Core & Algorithms | Enterprise & Data | Tools & Version Control | Hobby |
+| :---------------: | :---------------: | :---------------------: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,cpp,java" title="Python, C, C++, Java"/></a> | <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logoColor=white" alt="SAP"/></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea" title="Git, GitHub, VS Code, IntelliJ IDEA"/></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" title="Javascript, Typescript, HTML5, CSS3"/></a>
 
 ---
 
