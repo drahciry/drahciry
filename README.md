@@ -14,6 +14,7 @@ I am a Software Engineer focused on building resilient systems and understanding
 * **Low-Level & Performance:** C, Memory Management (Valgrind), Pointers, Data Structures
 * **Enterprise & Backend:** Java, Python, ABAP
 * **Data & Persistence:** SQL, Pandas, JSON serialization
+* **Environment:** Linux (Pop!_OS), Git
 
 ## 📊 My GitHub Stats
 
