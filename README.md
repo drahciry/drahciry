@@ -15,6 +15,13 @@ I am a Software Engineer focused on building resilient systems and understanding
 * **Enterprise & Backend:** Java, Python, ABAP
 * **Data & Persistence:** SQL, Pandas, JSON serialization
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drahciry&theme=github_dark"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drahciry&theme=github_dark"/>
+</p>
+
 ## 📬 Let's Connect
 I'm always open to discussing system architecture, algorithmic optimizations, or opportunities in software engineering.
 
