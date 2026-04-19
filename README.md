@@ -5,7 +5,7 @@ I am a Software Engineer focused on building resilient systems and understanding
 
 ## 🚀 What I'm Building & Researching
 
-* **Security & Systems Research:** Investigating Algorithmic Complexity Attacks and their impact on CPU exhaustion and L1 Cache degradation. Writing bare-metal C to demonstrate and mitigate vulnerabilities in deterministic hash functions.
+* **Security & Systems Research:** Investigating Algorithmic Complexity Attacks (like Hash Flooding) and their impact on CPU exhaustion and L1 Cache degradation. Writing bare-metal C to demonstrate and mitigate vulnerabilities in deterministic hash functions.
 * **Algorithmic Optimization:** Solving complex architectural problems natively in C, strictly focusing on state compression (achieving O(1) space complexity) and manual memory management without relying on garbage collection.
 * **Enterprise Architecture:** Applying strict OOP paradigms, SOLID principles, and Object Calisthenics to model scalable and maintainable backends in Java and Python.
 
