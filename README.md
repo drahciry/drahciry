@@ -27,4 +27,4 @@ I am a Software Engineer focused on building resilient systems and understanding
 I'm always open to discussing system architecture, algorithmic optimizations, or opportunities in software engineering.
 
 * **LinkedIn:** https://www.linkedin.com/in/drahciry/
-* **Email:** richardgonric@gmail.com
+* **Email:** goncalves.richard@graduacao.uerj.br
